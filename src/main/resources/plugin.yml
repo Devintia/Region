@@ -1,0 +1,5 @@
+name: DevintiaRegion
+version: 1.0.0
+author: DevinitaTeam
+main: net.devintia.region.RegionPlugin
+depends: [DevintiaCommons,DevintiaQuests]
